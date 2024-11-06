@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otiyiene.github.io/ENf/sitemap_index.txt
+Sitemap: https://otiyiene.github.io/Nku/sitemap_index.txt
+Sitemap: https://otiyiene.github.io/cks/sitemap_index.txt
+Sitemap: https://otiyiene.github.io/kSJ/sitemap_index.txt
